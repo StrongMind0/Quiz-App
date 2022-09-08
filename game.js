@@ -115,3 +115,5 @@ incrementScore = num => {
 
 const NewT = Math.floor(Math.random() * 3) +1;
 console.log(NewT);
+
+// Adjusting and making little changes
